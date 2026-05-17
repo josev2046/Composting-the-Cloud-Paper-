@@ -1,9 +1,7 @@
 **Jose Velazquez, MA**
 
 Prepared for: Dr. Michiko Oki 
-
-Session: *Scatological Laughter in the Age of Hygiene*
-Location: Central Saint Martins (Kings Cross)
+Session: *Scatological Laughter in the Age of Hygiene* at Central Saint Martins (Kings Cross)
 
 ***
 
