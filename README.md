@@ -62,7 +62,7 @@ When we recover data from these old carriers, we’re not just finding important
 
 If the discarded hardware is society's physical waste, then this data is society's mental waste. It’s the digital equivalent of toilet graffiti, as Dr Oki suggests.
 
-_[**Slide #5:** “Badger, badger, badger.” Jonti Picking, 2003 ]_
+_[**Slide #6:** “Badger, badger, badger.” Jonti Picking, 2003 ]_
 
 Think about what toilet graffiti represents. The gossip, the bad jokes, the strange drawings. It’s the unfiltered residue of human thought that we aren't allowed to say out loud in polite society. The human mind never stops producing this stuff. We constantly excrete these random, chaotic thoughts. Digital natives are no exception.
 
