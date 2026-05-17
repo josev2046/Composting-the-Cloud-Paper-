@@ -16,7 +16,7 @@ Tech companies have done a brilliant job of selling us a myth. They sell you "Th
 
 But The Cloud is just a metaphor. In reality, The Cloud is just someone else’s computer.
 
-_[**Slide #2:** Google’s Thurrock datacentre, to be built on “grey belt” land, has claimed its emissions will amount to 0.033% of the UK’s budgeted carbon footprint between 2028 and 2032. In fact, its emissions during that period will be 0.165% of the total. Source: The Guardian, 9 May 2026 ]_
+_[**Slide #2:** "Google’s Thurrock datacentre, to be built on “grey belt” land, has claimed its emissions will amount to 0.033% of the UK’s budgeted carbon footprint between 2028 and 2032. In fact, its emissions during that period will be 0.165% of the total." Source: The Guardian, 9 May 2026 ]_
 
 And those computers are incredibly hungry. 
 
@@ -38,7 +38,7 @@ Because we so desperately want to believe that our digital progression is clean 
 
 We bury it at the local tip. We ship it overseas. We put it completely out of sight so we don't have to look at the decaying, plastic bodies of the tools we used to rely on. The old media—those cracked CD-ROMs and rusted hard drives—is the literal crap of our digital metabolism. It is the solid waste left behind when society digests the latest tech trend and excretes the old one.
 
-_[**Slide #4:** Professor Dunkley Gyimah, digging for rejected radio reels. Photograph by Jose Velazquez]_
+_[**Slide #4:** Professor Dunkley Gyimah, digging for rejected radio reels (Photograph by Jose Velazquez)]_
 
 And this is where our work comes in.
 
