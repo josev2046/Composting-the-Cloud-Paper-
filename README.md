@@ -6,11 +6,11 @@
 
 ### **Composting the Cloud: the literal crap of our digital metabolism**
 
-The Cloud is not disembodied; it is a massive, resource-hungry organism that excretes carbon, heat, and toxic e-waste. So we thought it'd be worth embracing the scatological reality of our technology—both the old media in the landfill and the invisible emissions of the server farm. We will strip away the sanitised mask of 'sustainability' and confront the true metabolic cost of our digital lives.
+The Cloud is not disembodied; it is a massive, resource-hungry organism that excretes carbon, heat, and toxic e-waste. So I thought it'd be worth embracing the scatological reality of our technology—both the old media in the landfill and the invisible emissions of the server farm. We will strip away the sanitised mask of 'sustainability' and confront the true metabolic cost of our digital lives.
 
 Let’s bring it down to earth and unpack what that actually means for us, right now:
 
-Tech companies have done a brilliant job of selling us a myth. They sell us "The Cloud." It’s a wonderful bit of marketing, isn't it? The word "cloud" sounds fluffy, weightless, and infinite. It pitches a fantasy that our modern digital lives are perfectly hygienic and sanitised. We are told that we have finally transcended our messy, biological reality—that our thoughts, our memories, and our data can live forever untethered from the physical world, floating in some perfectly sterilized vacuum.
+Tech companies have done a brilliant job of selling us a myth. They sell you "The Cloud." It’s a wonderful bit of marketing, isn't it? The word "cloud" sounds fluffy, weightless, and infinite. It pitches a fantasy that our modern digital lives are perfectly hygienic and sanitised. You are told that we have finally transcended our messy, biological reality—that our thoughts, our memories, and our data can live forever untethered from the physical world, floating in some perfectly sterilized vacuum...
 
 But The Cloud is just a metaphor. In reality, The Cloud is just someone else’s computer.
 
@@ -22,17 +22,17 @@ The tech industry tries to greenwash this. They want to maintain the disguise of
 
 But it’s not just the invisible waste like carbon and heat. There is a very physical, solid reality to this too.
 
-We live in a disposable era. We treat technology a bit like fast food wrappers. When a hard drive fails, when a laptop gets a bit slow, or when a format like a floppy disk or a VHS tape becomes obsolete, what do we do? We flush it away. We chuck it in the bin.
+We live in a disposable era. We treat technology a bit like fast food. When a hard drive fails, when a laptop gets a bit slow, or when a format like a floppy disk or a VHS tape becomes obsolete, what do we do? We chuck it in the bin.
 
 Because we so desperately want to believe that our digital progression is clean and infinite, we hide this physical rot:
 
-We bury it at the local tip. We ship it overseas to marginalised spaces. We put it completely out of sight so we don't have to look at the decaying, plastic bodies of the tools we used to rely on. The old media—those cracked CD-ROMs and rusted hard drives—is the literal crap of our digital metabolism. It is the solid waste left behind when society digests the latest tech trend and excretes the old one.
+We bury it at the local tip. We ship it overseas. We put it completely out of sight so we don't have to look at the decaying, plastic bodies of the tools we used to rely on. The old media—those cracked CD-ROMs and rusted hard drives—is the literal crap of our digital metabolism. It is the solid waste left behind when society digests the latest tech trend and excretes the old one.
 
 And this is where our work comes in.
 
-Spending time digging around in this discarded reality. Pulling damaged drives, forgotten tapes, and mouldy disks out of the rubbish. We can tell you firsthand: it is not glamorous. It’s dirty. It’s literal waste management. If society is a giant organism constantly consuming new tech and excreting the old, then I suppose the role as an archivist makes us a bit of a cultural dung beetle.
+Spending time digging around in this discarded reality. Pulling damaged drives, forgotten tapes, and mouldy disks out of the rubbish. I can tell you firsthand: it is not glamorous. It’s dirty. It’s literal waste management. If society is a giant organism constantly consuming new tech and excreting the old, then I suppose the role as an archivist makes us a bit of a cultural dung beetle.
 
-We mean that quite seriously.
+And I mean that quite seriously.
 
 By rescuing this e-waste from the landfill, aren’t we practising a radical form of "waste care?" Taking what the modern tech world has labelled as disgusting, useless rubbish—the technological runoff that our hyper-consumptive economy has tossed aside as worthless—and rather than treating it with pathology and shame, we are composting it, pulling it apart to extract the historical and cultural nutrients still trapped inside…
 
@@ -44,10 +44,10 @@ Today’s internet is heavily policed. It’s algorithmically cleaned, corporate
 
 But the data sitting on these discarded drives? It is messy. It is weird. It is deeply human.
 
-When we recover data from these old carriers, we’re not just finding important historical documents. We're finding weird early memes. Abandoned Geocities pages with blinding neon backgrounds. Bad poetry, chaotic late-night forum posts, pirated software, and unfiltered personal diaries.
+When we recover data from these old carriers, we’re not just finding important historical documents. We're finding weird early memes. Abandoned Geocities pages with blinding neon backgrounds. Bad poetry, chaotic late-night forum posts, pirated software, and unfiltered personal diaries. Gold.
 
 If the discarded hardware is society's physical waste, then this data is society's mental waste. It’s the digital equivalent of toilet graffiti, as Professor Oki suggests.
 
 Think about what toilet graffiti represents. The gossip, the bad jokes, the strange drawings. It’s the unfiltered residue of human thought that we aren't allowed to say out loud in polite society. The human mind never stops producing this stuff. We constantly excrete these random, chaotic thoughts. Digital natives are no exception.
 
-The early internet was full of this digital toilet graffiti, and the modern, sanitised web tries incredibly hard to suppress it. We are taught to be embarrassed by it. But rescuing this mental waste is crucial. It is raw, it is transgressive, and its scatological laughter is a brilliant counterpunch to the lifeless, corporate tech world we live in today. It proves that behind the clean screens, we have always been chaotic, absurd, biological creatures.
+The early internet was full of this digital toilet graffiti, and the modern, sanitised web tries incredibly hard to suppress it. We are taught to be embarrassed by it. But rescuing this mental waste is crucial. It is raw, it is transgressive, and the scatological laughter is a brilliant counterpunch to the lifeless, corporate, Cold Play-like tech world we live in today. It proves that behind the clean screens, we have always been chaotic, absurd, biological creatures.
