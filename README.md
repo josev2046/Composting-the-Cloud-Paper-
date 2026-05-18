@@ -64,6 +64,6 @@ If the discarded hardware is society's physical waste, then this data is society
 
 _[**Slide #6: “Badger, badger, badger.” Jonti Picking, 2003 ]**_
 
-Think about what toilet graffiti represents. The gossip, the bad jokes, the strange drawings. It’s the unfiltered residue of human thought that we aren't allowed to say out loud in polite society. The human mind never stops producing this stuff. We constantly excrete these random, chaotic thoughts. Digital natives are no exception.
+Think about what toilet graffiti represents. The gossip, the bad jokes, the strange drawings. It’s the unfiltered residue of human thought that we aren't allowed to say out loud in polite society. Yet, the human mind never stops producing this stuff. We constantly excrete these random, chaotic thoughts. Digital natives are no exception.
 
 The early internet was full of this digital toilet graffiti, and the modern, sanitised web tries incredibly hard to suppress it. We are taught to be embarrassed by it. But rescuing this mental waste is crucial. It is raw, it is transgressive, and the scatological laughter is a brilliant counterpunch to the lifeless, corporate, Cold Play-like tech world we live in today. It proves that behind the clean screens, we have always been chaotic, absurd, biological creatures.
