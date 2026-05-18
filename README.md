@@ -26,7 +26,7 @@ The tech industry tries to greenwash this. They want to maintain the disguise of
 
 _[**Slide #3: Old monitors used to build bridges (Photograph by Kevin McElvaney) “Discarders of electronic goods expect them to be recycled properly. But almost all such devices contain toxic chemicals which, even if they are recyclable, make it expensive to do so. As a result, illegal dumping has become a lucrative business.”]**_
 
-_**Photographer Kevin McElvaney documents Agbogbloshie, a former wetland in Accra, Ghana, which is home to the world’s largest e-waste dumping site. Boys and young men smash devices to get to the metals, especially copper. Injuries, such as burns, untreated wounds, eye damage, lung and back problems, go hand in hand with chronic nausea, anorexia, debilitating headaches and respiratory problems. Most workers die from cancer in their 20s.]**_
+_**Photographer Kevin McElvaney documents Agbogbloshie, a former wetland in Accra, Ghana, which is home to the world’s largest e-waste dumping site. Boys and young men smash devices to get to the metals, especially copper. Injuries, such as burns, untreated wounds, eye damage, lung and back problems, go hand in hand with chronic nausea, anorexia, debilitating headaches and respiratory problems. Most workers die from cancer in their 20s. Source: https://www.theguardian.com/environment/gallery/2014/feb/27/agbogbloshie-worlds-largest-e-waste-dump-in-pictures]**_
 
 
 
