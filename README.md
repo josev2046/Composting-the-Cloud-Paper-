@@ -4,6 +4,9 @@
 
 ### **Composting the Cloud: the literal crap of our digital metabolism**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20277139.svg)](https://doi.org/10.5281/zenodo.20277139)
+
+
 _[**Slide #1: Microsoft’s wallpaper “Bucolic Green Hills”, AKA “Bliss.” ]**_
 
 The Cloud is not disembodied; it is a massive, resource-hungry organism that excretes carbon, heat, and toxic e-waste. So I thought it'd be worth embracing the scatological reality of our technology—both the old media in the landfill and the invisible emissions of the server farm. We will strip away the sanitised mask of 'sustainability' and confront the true metabolic cost of our digital lives.
