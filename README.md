@@ -68,6 +68,12 @@ The early internet was full of this digital toilet graffiti, and the modern, san
 
 ----
 
+
+https://github.com/user-attachments/assets/e414d9ec-f582-4b3c-8924-d3028cb06429
+
+
+----
+
 (ES)
 
 La nube no es incorpórea. Es un organismo masivo y voraz en recursos que excreta carbono, calor y residuos electrónicos tóxicos. Así que pensé que valdría la pena aceptar la realidad escatológica de nuestra tecnología, tanto los medios antiguos en el vertedero como las emisiones invisibles de las granjas de servidores. Despojemos pues la máscara higienizada de la sostenibilidad y confrontemos el verdadero coste metabólico de nuestras vidas digitales.
