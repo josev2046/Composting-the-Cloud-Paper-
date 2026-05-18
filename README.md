@@ -1,5 +1,3 @@
-**Jose Velazquez, MA**
-
 *Scatological Laughter in the Age of Hygiene* at Central Saint Martins (Kings Cross)
 
 ***
